@@ -2,6 +2,9 @@
 
 Struggling with C++
 
+<img src="https://github-readme-stats.vercel.app/api/?username=NastyPigz&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NastyPigz&show_icons=true"></img>
+
 Bye
 
 Discord: ');DROP TABLE IF EXISTS main;--#9999
