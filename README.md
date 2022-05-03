@@ -7,7 +7,7 @@ Struggling with C++
 
 Bye
 
-Discord: llama#3576
+Discord: llama#3519
 
 <!--
 **NastyPigz/NastyPigz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
