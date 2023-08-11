@@ -6,7 +6,7 @@ Struggling with C++
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NastyPigz&show_icons=true"></img>
 
-<figure><embed src="https://wakatime.com/share/@859e7601-f3ab-4198-ad84-b0f69d06142c/7486821e-e39e-4ad3-a0a5-95457461d0af.svg"></embed></figure>
+<img src="https://wakatime.com/share/@859e7601-f3ab-4198-ad84-b0f69d06142c/7486821e-e39e-4ad3-a0a5-95457461d0af.svg"></img>
 
 Bye
 
