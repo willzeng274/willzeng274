@@ -10,8 +10,6 @@ Achievements
 
 ![image](https://github.com/NastyPigz/NastyPigz/assets/61915438/a6bd7335-2b56-4fbc-a4e7-0d8ac8a73d66)
 
-<img width="1792" alt="image" src="https://github.com/NastyPigz/NastyPigz/assets/61915438/c33f5e4d-61f6-4fb4-9470-6b38153e4712">
-
 <img width="1792" alt="image" src="https://github.com/NastyPigz/NastyPigz/assets/61915438/98abcfb3-325b-4b0e-8a34-6c5cdc00a8bf">
 
 Bye
