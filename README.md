@@ -6,9 +6,9 @@ I aspire to study Computer Science at Univerity of Waterloo 🤠
 
 I enjoy playing the piano (jazz & classical), contest math, competitive programming, creative writing, Shakespeare, physics, and meeting new cool people.
 
-I am still training myself in Competitive Programming. If you have tips (especially with Ad Hoc problems) please enlighten me!
+I am still training myself in competitive programming. If you have tips (especially with Ad Hoc problems) please enlighten me!
 
-I'm also looking to collaborate and contribute to open source projects!
+I'm also looking to contribute to open source projects!
 
 ### Languages I am familiar with:
 
