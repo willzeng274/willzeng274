@@ -36,7 +36,9 @@ Vercel, Netlify, Railway, Heroku, CloudFlare, Fly.io
 
 Discord: snarkatude
 
-Twitter: capitalismd
+Twitter: @capitalism_d
+
+LinkedIn: COMING SOON
 
 ---
 
