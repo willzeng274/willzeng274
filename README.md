@@ -40,11 +40,11 @@ Twitter: capitalismd
 
 ---
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=NastyPigz&show_icons=true#gh-light-mode-only)](https://github.com/NastyPigz/)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=NastyPigz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/NastyPigz/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=NastyPigz&show_icons=true#gh-light-mode-only)](https://github.com/NastyPigz/#gh-light-mode-only)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=NastyPigz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/NastyPigz/#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastypigz&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config&layout=compact&langs_count=8&hide=HTML&theme=dark#gh-dark-mode-only)](https://github.com/NastyPigz/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastypigz&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config&layout=compact&langs_count=8&hide=HTML#gh-light-mode-only)](https://github.com/NastyPigz/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastypigz&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config&layout=compact&langs_count=8&hide=HTML&theme=dark#gh-dark-mode-only)](https://github.com/NastyPigz/#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastypigz&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config&layout=compact&langs_count=8&hide=HTML#gh-light-mode-only)](https://github.com/NastyPigz/#gh-light-mode-only)
 
 <!--
 
