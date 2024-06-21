@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm a Grade 12 Canadian High School Student still completing his credits.
-
-I aspire to study Computer Science at Univerity of Waterloo 🤠
+I am an undergrad student at University of Waterloo majoring in Computer Engineering, expecting to graduate in 2029.
 
 I enjoy playing the piano (jazz & classical), contest math, competitive programming, creative writing, Shakespeare, physics, and meeting new cool people.
 
