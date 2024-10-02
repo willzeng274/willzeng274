@@ -10,12 +10,11 @@ I'm also looking to contribute to open source projects!
 
 ### Languages I am familiar with:
 
-Python 3.6-3.10, JavaScript, TypeScript, C++, Rust, Microsoft Visual Basic 6, PostgreSQL, 
-HTML 5, CSS 3
+Python 3, JavaScript, TypeScript, C++, Rust, Microsoft Visual Basic 6, PostgreSQL, Dart, Go, HTML, CSS
 
 ### Frameworks I am familiar with
 
-React.js (<=18), Next.js (<=13), SvelteKit (latest), Svelte (latest), Tailwind CSS (latest), SCSS/SASS (*),
+React.js, Next.js, SvelteKit, Svelte, Tailwind CSS, SCSS/SASS,
 Actix-web (w/ actix-cors, actix-ws, actix-http, actix-identity, actix-session), sqlx, Argon2, serde, serde_json, serde_cbor, tokio, etc.
 
 ### ML-related libraries I've used
@@ -24,7 +23,7 @@ numpy, pandas, matplotlib, seaborn, sklearn
 
 ### Tools I know how to use
 
-Git, Linux, Chrome Extension API, Docker (note: minimal experience with docker-compose), CMake, Swagger UI, LaTeX
+Git, Linux, Chrome Extension API, Docker (minimal experience with docker-compose), CMake, Swagger UI, LaTeX, etc
 
 ### Cloud Services I've used
 
