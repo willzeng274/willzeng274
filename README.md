@@ -42,8 +42,9 @@ LinkedIn: COMING SOON
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=willzeng274&show_icons=true#gh-light-mode-only)](https://github.com/willzeng274/#gh-light-mode-only)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=willzeng274&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/willzeng274/#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzeng274&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config,chesser-backend&layout=compact&langs_count=8&hide=HTML&theme=dark#gh-dark-mode-only)](https://github.com/willzeng274/#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzeng274&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config,chesser-backend&layout=compact&langs_count=8&hide=HTML#gh-light-mode-only)](https://github.com/willzeng274/#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzeng274&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config,chesser-backend,equill&layout=compact&langs_count=8&hide=HTML&theme=dark#gh-dark-mode-only)](https://github.com/willzeng274/#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzeng274&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config,chesser-backend,equill&layout=compact&langs_count=8&hide=HTML&theme=dark#gh-light-mode-only)](https://github.com/willzeng274/#gh-light-mode-only)
 
 <!--
 
