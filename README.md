@@ -10,32 +10,30 @@ I'm also looking to contribute to open source projects!
 
 ### Languages I am familiar with:
 
-Python 3, JavaScript, TypeScript, C++, Rust, Microsoft Visual Basic 6, PostgreSQL, Dart, Go, HTML, CSS
+Python 3, JavaScript, TypeScript, C, C++, Rust, Microsoft Visual Basic 6, PostgreSQL, Dart, Go, HTML, CSS
 
 ### Frameworks I am familiar with
 
-React.js, Next.js, SvelteKit, Svelte, Tailwind CSS, SCSS/SASS,
+React.js, Next.js, Remix, Tanstack Start, SvelteKit, Svelte, Tailwind CSS, SCSS/SASS,
 Actix-web (w/ actix-cors, actix-ws, actix-http, actix-identity, actix-session), sqlx, Argon2, serde, serde_json, serde_cbor, tokio, etc.
 
 ### ML-related libraries I've used
 
-numpy, pandas, matplotlib, seaborn, sklearn
+numpy, pandas, matplotlib, seaborn, sklearn, pytorch, tensorflow, mediapipe
+
+langchain
 
 ### Tools I know how to use
 
-Git, Linux, Chrome Extension API, Docker (minimal experience with docker-compose), CMake, Swagger UI, LaTeX, etc
+Git, Linux, Chrome Extension API, Docker (+docker-compose and k8s), CMake, Swagger UI, LaTeX, etc
 
 ### Cloud Services I've used
 
-Vercel, Netlify, Railway, Heroku, CloudFlare, Fly.io
+Vercel, Netlify, Railway, Heroku, CloudFlare, Fly.io, Azure, AWS, GCP
 
 ### How to reach me:
 
-Discord: snarkatude
-
-Twitter: @capitalism_d
-
-LinkedIn: COMING SOON
+Contact information on [https://www.williamzeng.xyz/](https://www.williamzeng.xyz/)
 
 ---
 
