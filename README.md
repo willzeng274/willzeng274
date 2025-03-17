@@ -4,24 +4,23 @@ I am an undergrad student at University of Waterloo majoring in Computer Enginee
 
 I enjoy playing the piano (jazz & classical), contest math, competitive programming, creative writing, Shakespeare, physics, and meeting new cool people.
 
-I am still training myself in competitive programming. If you have tips (especially with Ad Hoc problems) please enlighten me!
+I also love competitive programming. If you have tips (especially with Ad Hoc problems like 💀 Snowflake OA) please enlighten me!
 
-I'm also looking to contribute to open source projects!
+I'm also looking to contribute to open source projects! :)
 
 ### Languages I am familiar with:
 
-Python 3, JavaScript, TypeScript, C, C++, Rust, Microsoft Visual Basic 6, PostgreSQL, Dart, Go, HTML, CSS
+Python 3, JavaScript, TypeScript, C, C++, Rust, Visual Basic 6, SQL, Dart, Go, PHP, Lean 4
 
-### Frameworks I am familiar with
+### Fullstack frameworks
 
-React.js, Next.js, Remix, Tanstack Start, SvelteKit, Svelte, Tailwind CSS, SCSS/SASS,
-Actix-web (w/ actix-cors, actix-ws, actix-http, actix-identity, actix-session), sqlx, Argon2, serde, serde_json, serde_cbor, tokio, etc.
+React.js, Next.js, Remix, Tanstack Start, SvelteKit, Svelte, Tailwind CSS, SCSS/SASS, Express.js, Prisma, sequelize,
+FastAPI, Flask, SQLAlchemy, Pydantic, alembic,
+Tokio-tungstenite, actix-web (actix-cors, actix-ws, actix-http, actix-identity, actix-session), sqlx, Argon2, serde, serde_json, serde_cbor, tokio/async-std runtime, etc.
 
-### ML-related libraries I've used
+### LLM / ML libraries I've used
 
 numpy, pandas, matplotlib, seaborn, sklearn, pytorch, tensorflow, mediapipe
-
-langchain
 
 ### Tools I know how to use
 
@@ -29,7 +28,7 @@ Git, Linux, Chrome Extension API, Docker (+docker-compose and k8s), CMake, Swagg
 
 ### Cloud Services I've used
 
-Vercel, Netlify, Railway, Heroku, CloudFlare, Fly.io, Azure, AWS, GCP
+AWS, GCP, Azure, Oracle, Vercel, Netlify, Railway, Heroku, CloudFlare, Fly.io, Deta (💀)
 
 ### How to reach me:
 
@@ -58,5 +57,5 @@ Achievements
 
 Bye
 
-Discord: snarkatude
+Discord: lowiznine
 -->
