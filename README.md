@@ -42,8 +42,8 @@ Contact information on [https://www.williamzeng.xyz/](https://www.williamzeng.xy
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=willzeng274&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/willzeng274/#gh-dark-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzeng274&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config,chesser-backend,equill&layout=compact&langs_count=8&hide=HTML&theme=dark#gh-dark-mode-only)](https://github.com/willzeng274/#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzeng274&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config,chesser-backend,equill&layout=compact&langs_count=8&hide=HTML&theme=light#gh-light-mode-only)](https://github.com/willzeng274/#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzeng274&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config,chesser-backend,equill,ECE_198-buzzer-project&layout=compact&langs_count=8&hide=HTML&theme=dark#gh-dark-mode-only)](https://github.com/willzeng274/#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willzeng274&exclude_repo=stroke-prediction-ml,chatapp,gamerz.lk,nasty-nvim-config,chesser-backend,equill,ECE_198-buzzer-project&layout=compact&langs_count=8&hide=HTML&theme=light#gh-light-mode-only)](https://github.com/willzeng274/#gh-light-mode-only)
 
 <!--
 
