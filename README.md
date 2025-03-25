@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Views Badge](https://komarev.com/ghpvc/?username=willzeng274&label=Profile%20views&color=0e75b6&style=flat)
+
 I am an undergrad student at University of Waterloo majoring in Computer Engineering, expecting to graduate in 2029.
 
 I enjoy playing the piano (jazz & classical), contest math, competitive programming, creative writing, Shakespeare, physics, and meeting new cool people.
