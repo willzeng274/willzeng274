@@ -34,7 +34,7 @@ I am an undergrad student at University of Waterloo majoring in Computer Enginee
 
 ### How to reach me:
 
-Contact information on [https://www.williamzeng.xyz/](https://www.wzeng.dev/)
+Contact information on [https://www.wzeng.dev/](https://www.wzeng.dev/)
 
 ---
 
